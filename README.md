@@ -1,23 +1,32 @@
-# Gauri Pandhare - Portfolio Website
+**Gauri Pandhare – Portfolio Website**
 
-A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
+A modern, responsive portfolio website built using HTML, CSS, and JavaScript to showcase my skills, projects, and professional profile.
 
 ## Features
-
-- 🎨 Modern, clean design with professional color scheme
-- 📱 Fully responsive (mobile, tablet, desktop)
-- ⚡ Fast loading performance
-- 🔍 SEO optimized
-- 📝 Contact form with validation
-- 🎯 Interactive project showcase
-- 🌓 Clean, readable typography
-- 🚀 Easy to deploy
+-Modern and clean UI with a professional color palette
+-Fully responsive design (mobile, tablet, desktop)
+-Fast loading and optimized performance
+-SEO-friendly structure and meta tags
+-Contact form with client-side validation
+-Interactive project showcase with filtering
+-Clean and readable typography
+-Easy deployment on GitHub Pages / Netlify
 
 ## Pages
+-Home : Introduction, skills overview, and featured projects
+-About : Personal profile, resume, education, experience, and achievements
+-Projects : Complete project portfolio with category-based filtering
+-Contact : Contact form with validation and contact information
 
-1. **Home** - Introduction, skills, featured projects
-2. **About** - Resume, education, experience, achievements
-3. **Projects** - Complete project portfolio with filtering
-4. **Contact** - Contact form and information
+## Technologies Used
+-HTML5 – Semantic structure
+-CSS3 – Flexbox, Grid, responsive design
+-JavaScript (ES6) – Interactivity and validation
 
-## File Structure
+## Deployment
+This website can be easily deployed using:
+GitHub Pages
+Netlify
+
+## Contact
+If you’d like to connect or collaborate, feel free to reach out via the Contact page of the website.
